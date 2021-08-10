@@ -26,7 +26,7 @@
 | Monday        |       Body Weight Workout     | Set Directive and Objectives.          | Read When Breath Becomes Air        |
 | Tuesday       |       Body Weight Workout     | Develop Compatibility for mobile/tablet| Read Richest Man in Babylon         |
 | Wednesday     |       Body Weight Workout     | Develop Compatibility for mobile/tablet| Read Richest Man in Babtlon         |
-| Thursday      |       Body Weight Workout     | Develop Compatibility for mobile/tablet| Read The little Book that beat..... |
+| Thursday      |       Body Weight Workout     | Develop Compatibility for mobile/tablet| Read The Infinite Game              |
 | Friday        |       Body Weight Workout     | Develop Compatibility for mobile/tablet| Read or sleep early                 |
 
 *Weekend schedule*

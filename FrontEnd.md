@@ -22,3 +22,5 @@ Hypertext Transfer Protocol. Standaard protocol by which webpages are transferre
 #### SSL & TLS
 Secure Sockets Layer and Transport Layer Security are active in https: websites. HTTP requests are secured under https. Security ensured by digital certificate.
 
+### CSS
+Mozilla MDN: https://developer.mozilla.org/en-US/docs/Web/CSS

@@ -3,10 +3,8 @@
 
 ## RoadMap
 ![frontend](https://user-images.githubusercontent.com/61619422/129010468-822b9f85-bc95-41c7-9bc2-76c70857ea13.png)
-## Notes
-### How does Internet Work?
-- Network of computers, passing packets of data
-- Packets of data travel in electrons
+
+## How does Internet Work?
 #### Bandwidth
 the Maximum Transmission Capacity of a Device
 #### Latency
@@ -24,3 +22,8 @@ Secure Sockets Layer and Transport Layer Security are active in https: websites.
 
 ### CSS
 Mozilla MDN: https://developer.mozilla.org/en-US/docs/Web/CSS
+CSS tutorial by W3school: https://www.w3schools.com/css/
+
+#### ID vs Classes
+- Id is unique, classes can be a group of multiple elements.
+- One can apply two classes to one element, not possible with ID

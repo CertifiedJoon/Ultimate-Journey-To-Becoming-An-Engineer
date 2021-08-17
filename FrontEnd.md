@@ -23,7 +23,3 @@ Secure Sockets Layer and Transport Layer Security are active in https: websites.
 ### CSS
 Mozilla MDN: https://developer.mozilla.org/en-US/docs/Web/CSS  
 CSS tutorial by W3school: https://www.w3schools.com/css/
-
-#### ID vs Classes
-- Id is unique, classes can be a group of multiple elements.
-- One can apply two classes to one element, not possible with ID

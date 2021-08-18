@@ -23,3 +23,8 @@ Secure Sockets Layer and Transport Layer Security are active in https: websites.
 ### CSS
 Mozilla MDN: https://developer.mozilla.org/en-US/docs/Web/CSS  
 CSS tutorial by W3school: https://www.w3schools.com/css/
+
+### Javascript
+JS tutorial by W3school: https://www.w3schools.com/js/
+Cloning Netflix landing: https://www.youtube.com/watch?v=P7t13SGytRk&t=22s
+Modern Javascript: https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70

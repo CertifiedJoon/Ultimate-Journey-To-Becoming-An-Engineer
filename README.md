@@ -12,7 +12,7 @@
 
 ### September 2021 Objective
 1. Study Graph and Graph algorithm
-2. Study Flutter
+2. Study Javascript.
 5. Study Value Investing.
 
 ## September 18th, 2021 - September 26th, 2021 Plan

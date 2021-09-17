@@ -10,6 +10,85 @@
 2. Fluent Algorithm Construction. 
 3. Profitable value investing method.
 
+### September 2021 Objective
+1. Study Graph and Graph algorithm
+2. Study Flutter
+5. Study Value Investing.
+
+## September 18th, 2021 - September 26th, 2021 Plan
+*Things to do everyday*
+- Anki Droid Flash Cards revision
+
+*Weekday schedule*
+| Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Thursday      |       Body Weight Workout     | Cracking the Coding Interview          | Read Security Analysis              |
+| Friday        |       Body Weight Workout     | Cracking the Coding Interview          | Read Security Analysis              |
+
+*Weekend schedule*
+|Saturday                 | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - 09:30        | Read a Book of My Choice                                               |
+|9:50      - 11:00        | Cracking Coding Interview                                              |
+|11:30     - 16:00        | Cracking Coding Interview                                              |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Plan for Flutter Learning          Print important Python documentation|
+
+|Sunday                   | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Read a Book of My Choice / Setup Study                                 |
+|Breakfast - Lunch        | Cracking Coding Interview                                              |
+|Lunch     - 16:00        | Cracking Coding Interview                                              |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Start Learning Flutter                                                 |
+|Roll Call - 24:00        | Read The Security Analysis                                             |
+
+|Monday                   | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Read a Book of My Choice / Setup Study                                 |
+|Breakfast - Lunch        | Cracking Coding Interview                                              |
+|Lunch     - 16:00        | Cracking Coding Interview                                              |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Start Learning Flutter                                                 |
+|Roll Call - 24:00        | Read The Security Analysis                                             |
+
+|Tuesday             | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Read a Book of My Choice / Setup Study                                 |
+|Breakfast - Lunch        | Cracking Coding Interview                                              |
+|Lunch     - 16:00        |             xxx                                                        |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Start Learning Flutter                                                 |
+|Roll Call - 24:00        | Read The Security Analysis                                             |
+
+|Wednesday                | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Read a Book of My Choice / Setup Study                                 |
+|Breakfast - Lunch        | Cracking Coding Interview                                              |
+|Lunch     - 16:00        | Cracking Coding Interview                                              |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Start Learning Flutter                                                 |
+|Roll Call - 24:00        | Read The Security Analysis                                             |
+
+|Saturday                 | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Read a Book of My Choice / Setup Study                                 |
+|Breakfast - Lunch        | Cracking Coding Interview                                              |
+|Lunch     - 16:00        | Cracking Coding Interview                                              |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Start Learning Flutter                                                 |
+|Roll Call - 24:00        | Read The Security Analysis                                             |
+
+|Sunday                   | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Read a Book of My Choice / Setup Study                                 |
+|Breakfast - Lunch        | Cracking Coding Interview                                              |
+|Lunch     - 16:00        | Cracking Coding Interview                                              |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Start Learning Flutter                                                 |
+|Roll Call - 24:00        | Read The Security Analysis                                             |
+
+
 ### August 2021 Objective
 1. Start Studying Cracking Coding interview. (Take it slow. I have time.)
 2. Finish flexible mobile/tablet compatibility for Story.com.

@@ -23,6 +23,7 @@ Secure Sockets Layer and Transport Layer Security are active in https: websites.
 ### CSS
 Mozilla MDN: https://developer.mozilla.org/en-US/docs/Web/CSS  
 CSS tutorial by W3school: https://www.w3schools.com/css/
+Modern HTML CSS : https://www.udemy.com/course/modern-html-css-from-the-beginning/  
 
 ### Javascript
 JS tutorial by W3school: https://www.w3schools.com/js/  

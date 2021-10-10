@@ -29,3 +29,4 @@ JS tutorial by W3school: https://www.w3schools.com/js/
 Cloning Netflix landing: https://www.youtube.com/watch?v=P7t13SGytRk&t=22s  
 Modern Javascript: https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70  
 UDEMY course: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12383942?start=120#overview   
+Eloquent JS: https://eloquentjavascript.net/Eloquent_JavaScript.pdf  

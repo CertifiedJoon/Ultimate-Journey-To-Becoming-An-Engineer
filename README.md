@@ -10,6 +10,46 @@
 2. Fluent Algorithm Construction. 
 3. Profitable value investing method.
 
+## October 11th, 2021 - October 17th, 2021 Plan
+*Things to do everyday*
+- Anki Droid Flash Cards revision
+
+*Weekday schedule*
+| Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Tuesday       |       Body Weight Workout     | CTCI Bit Manipulation Qs               | Continued                           |
+| Wednesday     |       Body Weight Workout     | CTCI Bit Manipulation Qs               | Finish Qs                           |
+| Thursday      |       Body Weight Workout     | CTCI Math and Logic Puzzles Readover   | Start with questions                |
+| Friday        |       Body Weight Workout     | CTCI Math and Logic Puzzles Qs         | Continue                            |  
+
+*Weekend schedule*
+|Monday                   | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Study Modern HTML and CSS course                                       |
+|Breakfast - Lunch        | Study Modern HTML and CSS course                                       |
+|Lunch     - 16:00        | Study Modern HTML and CSS course                                       |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Study Modern HTML and CSS course                                       |
+|Roll Call - 24:00        |                       Watch a Movie                                    |  
+
+|Satuday                  | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Study Modern HTML and CSS course                                       |
+|Breakfast - Lunch        | Study Modern HTML and CSS course                                       |
+|Lunch     - 16:00        | Study Modern HTML and CSS course                                       |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Study Modern HTML and CSS course                                       |
+|Roll Call - 24:00        |                       Watch a Movie                                    |  
+
+|Sunday                   | Work                                                                   |
+|:-----------------------:|:----------------------------------------------------------------------:|
+|Waking Up - Breakfast    | Study Modern HTML and CSS course                                       |
+|Breakfast - Lunch        | Study Modern HTML and CSS course                                       |
+|Lunch     - 16:00        | Study Modern HTML and CSS course                                       |
+|16:00     - 18:00        | Workout&Eat Refresh                                                    |
+|18:00     - 20:20        | Study Modern HTML and CSS course                                       |
+|Roll Call - 24:00        |                       Watch a Movie                                    |  
+
 ### September 2021 Objective
 1. Study Graph and Graph algorithm
 2. Study Javascript.
